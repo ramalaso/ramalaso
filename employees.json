@@ -1,0 +1,38 @@
+{
+  "Employees": [
+    {
+      "userId": "krish",
+      "jobTitle": "Developer",
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "level": "E1",
+      "region": "CA",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@salmonrivers.com",
+      "photo": "https://randomuser.me/api/portraits/men/51.jpg"
+
+    },
+    {
+      "userId": "devid",
+      "jobTitle": "Developer",
+      "firstName": "Devid",
+      "lastName": "Rome",
+      "level": "E2",
+      "region": "CA",
+      "phoneNumber": "1111111",
+      "emailAddress": "devid.rome@salmonrivers.com",
+      "photo": "https://randomuser.me/api/portraits/men/50.jpg"
+    },
+    {
+      "userId": "tin",
+      "jobTitle": "Program Directory",
+      "firstName": "Tin",
+      "lastName": "Jonson",
+      "level": "E3",
+      "region": "CA",
+      "phoneNumber": "2222222",
+      "emailAddress": "tin.jonson@salmonrivers.com",
+      "photo": "https://randomuser.me/api/portraits/men/52.jpg"
+    }
+  ]
+}
