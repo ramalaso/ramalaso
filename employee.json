@@ -1,1 +1,13 @@
-
+{
+  "Employees": [
+    {
+      "userId": "ramalaso",
+      "jobTitle": "Web Developer",
+      "firstName": "Raul Marcelo",
+      "lastName": "Laredo Soria",
+      "class": "CSE-341",
+      "City": "Cochabamba",
+      "emailAddress": "ramalaso@byui.edu"
+    }
+  ]
+}
